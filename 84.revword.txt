@@ -1,0 +1,11 @@
+import java.util.*;
+class  revword
+{
+public static void maim(String[]args)
+{
+ String s=" ";
+ Scanner sc=new Scanner(System.in)
+ string build sb=new String Build(s)
+ System.out.println("The string given sb.reverse());
+}
+}  
